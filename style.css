@@ -27,3 +27,34 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 margin-left:350px;
 margin-top:70px;
 }
+#form1{
+margin-left:320px;
+margin-right:320px;
+}
+#form1 label{
+font-size:20px;
+}
+.first input{
+border-radius: 4px;
+border:none;
+width:80%;
+padding-top:20px;
+display: inline-block;
+margin-top:10px;
+}
+.first{
+margin-right: 500px;
+}
+.last input{
+border-radius: 4px;
+border:none;
+width:70%;
+padding-top:20px;
+display: inline-block;
+margin-top:10px;
+}
+.last{
+margin-left: 420px;
+margin-top: -70px;
+}
+

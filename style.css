@@ -1,0 +1,29 @@
+body{
+margin:0px;
+overflow-x: hidden;
+background-color:  	#DCDCDC;
+}
+#logo {
+padding-left: 400px;
+margin-top:60px;
+}
+#logo img{
+padding-left:350px;
+}
+#logo h1{
+padding-left:270px;
+margin-bottom:2px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#logo p{
+padding-right: 200px;
+font-size:22px;
+}
+#validation{
+padding-left:35px;
+}
+#bill{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-left:350px;
+margin-top:70px;
+}

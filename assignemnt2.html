@@ -61,8 +61,49 @@
                      <label for="zip">Zip</label></br>
                      <input type="text" name="zip" id="zip">
                  </div>
-
         </div> 
+<div class="ship"><hr>
+            <div id="check">
+            <input type="checkbox" id="shipping" name="shipping-address" value="shipping">
+            <label for="shipping">Shipping address is the same as my billing address</label></br>
+            <input type="checkbox" id="save" name="save-data" value="save">
+            <label for="save">Save this information for next time</label></div>
+            <hr>
+        </div>
+        <div class="payment">
+            <h2>Payment</h2>
+            <div class="paymethod">
+            <input type="radio" id="credit" name="payment" value="credit-card">
+            <label for="credit">Credit Card</label><br>
+            <input type="radio" id="debit" name="payment" value="debit-card">
+            <label for="debit">Debit Card</label><br>
+            <input type="radio" id="paypal" name="payment" value="paypal">
+            <label for="paypal">Paypal</label> 
+        </div>
+        </div>
+        <div class="credit-details">
+            <div class="cname">
+            <label for="cardname">Name on card</label></br>
+            <input type="text" id="cardname" name="cardname">
+           <p>Full name as displayed on card</p>
+            </div>
+            <div class="cnum">
+                <label for="cardnum">Credit card number</label></br>
+                <input type="text" id="cardnum" name="cardnum">
+            </div>
+        </div>
+        <div class="exp">
+            <div class="expire">
+                <label for="expiry">Expiration</label></br>
+                <input type="text" id="expiry" name="expiry">
+            </div>
+            <div class="cvv">
+                <label for="cvvfield">CVV</label></br>
+                <input type="text" id="cvvfield" name="cvv">
+            </div>
+            <div class="hr3"><hr></div>
+        </div>
+        <button type="continue" id="continue">Continue to checkout</button>
     </form>
 </body>
 </html>

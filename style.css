@@ -241,3 +241,107 @@ padding-left: 10px;;
 ::placeholder{
 padding-left:12px;
 }
+.cart{
+width:20%;
+float: right;
+margin-right:180px;
+margin-top: 50px;;
+}
+.cart h2{
+color: grey;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin-right: 150px;
+}
+#num3{
+border-radius: 30%;
+background-color: gray;
+margin-left: 300px;
+margin-top: -50px;
+color:white;
+font-size:25px;
+padding:2px 0px 2px 2px;
+}
+.items{
+width:20%;
+float:right;
+background-color:white;
+margin-right:-317px;
+margin-top: 110px;
+border-radius: 4px;
+}
+.pname{
+font-size: 25px;
+margin-top:12px;
+padding-left:12px;
+margin-right: 60px;
+}
+.brief{
+color:gray;
+margin-top:-25px;
+margin-right: 60px;
+padding-left:12px;
+margin-bottom:28px;
+}
+.price{
+color:grey;
+margin-top: -57px;
+margin-left: 270px;
+font-size:20px;
+}
+.product hr{
+margin-bottom:2px;
+}
+#promocode{
+background-color: 	#DCDCDC;
+margin-top:-6px;
+border-top:2px gray solid;
+border-bottom:2px gray solid;
+}
+#promo{
+    color:green;
+}
+#example{
+    color: green;
+    font-size:12px;
+}
+#sale{
+    color:green;
+}
+#usd{
+   margin-bottom: -7px;
+}
+#total{
+    font-size:18px;
+    padding-top:5px;
+}
+#tprice{
+    margin-top:-38px;
+}
+.last-div{
+    width:20%;
+    float:right;
+    margin-right:-317px;
+    margin-top: 480px;
+    border-radius: 4px;
+    border: 2px gray solid;
+    background-color: white;
+}
+#redeem{
+    margin:10px;
+    border-radius: 4px;
+    width:65%;
+    font-size:25px;
+    border: 2px gray solid;
+}
+#red-button{
+    background-color: gray ;
+    color:white;
+    float:right;
+    font-size:20px;
+    padding:5px;
+    padding-bottom: none; 
+    margin-top: 493px;
+    margin-right:-307px;
+    border:none;
+    border-radius: 4px;
+}

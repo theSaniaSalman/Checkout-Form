@@ -238,3 +238,6 @@ padding-left: 10px;;
 #support {
 padding-left: 10px;;
 }
+::placeholder{
+padding-left:12px;
+}

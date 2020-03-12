@@ -140,3 +140,83 @@ font-size:28px;
 width:100%;
 color:grey; 
 }
+hr{
+    color:grey;
+}
+.ship{
+margin-top: 30px;
+margin-right: 150px
+}
+#check{
+margin-top:25px;
+margin-bottom:20px;
+}
+.payment{
+margin-top:30px;
+}
+.credit-details{
+margin-top: 20px;
+}
+#cardname{
+margin-top:7px;
+border:none;
+border-radius: 4px;
+font-size:28px;
+color:grey;
+width:40%;
+}
+.cname p{
+margin-top:5px;
+color:grey;
+}
+.cnum{
+    margin-left: 430px;
+    margin-top: -100px;
+}
+#cardnum{
+margin-top:7px;
+border:none;
+border-radius: 4px;
+font-size:28px;
+color:grey;
+width:72%;
+}
+.exp{
+margin-top:40px;
+}
+.expire{
+margin-right: 800px;
+}
+#expiry{
+margin-top:7px;
+border:none;
+border-radius: 4px;
+font-size:28px;
+color:grey;
+width:100%;
+}
+.cvv{
+margin-left: 180px;
+margin-top: -62px;
+}
+#cvvfield{
+margin-top:5px;
+border:none;
+border-radius: 4px;
+font-size:28px;
+color:grey;
+width:18%;
+}
+.hr3{
+margin-top:30px;
+margin-right: 150px;
+}
+#continue{
+color: white;
+background-color: #009ACD;
+border-radius: 4px;
+border:none;
+width:85%;
+padding:15px;
+font-size:20px;
+}

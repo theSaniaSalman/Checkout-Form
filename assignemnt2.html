@@ -12,6 +12,43 @@
         <h1>Checkout Form</h1>
         <p>Below is an example form built entirely with Bootstrap's form controls. Each required form group has a <span id="validation">validation state that can be triggered by attempting to submit the form without completing it.</span></p>
     </div>
+     <div class="cart">
+        <h2>Your cart</h2>
+        <div id="num3">3
+        </div>
+    </div>
+        <div class="items">
+        <div class="product"><p class="pname">Product name</p>
+            <p class="brief">Brief description</p>
+            <p class="price">$12</p>
+            <hr>
+        </div>
+        
+        <div class="product"><p class="pname">Second product</p>
+            <p class="brief">Brief description</p>
+            <p class="price">$8</p>
+            <hr>
+        </div>
+        <div class="product"><p class="pname">Third item</p>
+            <p class="brief">Brief description</p>
+            <p class="price">$5</p>
+            <hr>
+        </div>
+        <div class="product" id="promocode"><p class="pname" id="promo">Promo code</p>
+            <p class="brief" id="example">EXAMPLECODE</p>
+            <p class="price" id="sale">-$5</p>
+        </div>
+        <div class="product" id="usd"><p class="pname" id="total">Total (USD)</p> 
+            <p class="price" id="tprice">$20</p>
+        </div>
+       </div>
+       <div class="last-div">
+       <input type="text" name="redeem-text" id="redeem" placeholder="Promo code">
+      </div>
+      <div>
+      <input type="submit"  value="Redeem" id="red-button">
+    </div>
+       </div>
     <h1 id="bill">Billing address</h1>
     <form id="form1">
         <div class="elemnts">

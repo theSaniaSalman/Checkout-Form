@@ -24,44 +24,41 @@ padding-left:35px;
 }
 #bill{
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-margin-left:350px;
+margin-left:320px;
 margin-top:70px;
 }
 #form1{
 margin-left:320px;
-margin-right:320px;
+margin-right:400px;
 }
 #form1 label{
 font-size:20px;
 }
 .first input{
-border-radius: 4px;
-border:none;
-width:80%;
-padding-top:20px;
-display: inline-block;
-margin-top:10px;
+width:88%;
 }
 .first{
 margin-right: 500px;
 }
 .last input{
-border-radius: 4px;
-border:none;
-width:70%;
-padding-top:20px;
-display: inline-block;
-margin-top:10px;
+width:72%;
 }
 .last{
-margin-left: 420px;
-margin-top: -70px;
+margin-left: 370px;
+margin-top: -65px;
+}
+.input-value{
+border-radius: 4px;
+border:none;
+font-size:28px;
+display: inline-block;
+margin-top:10px;
 }
 .user{
 margin-top:20px;
 }
 .at{
-margin-right: 900px;
+margin-right: 750px;
 font-size:35px;
 padding-left:5px;
 background-color: #A9A9A9;
@@ -110,13 +107,13 @@ border:none;
 border-radius: 4px;
 margin-top:7px;
 font-size:28px;
-width:35%;
+width:40%;
 color:grey;
 margin-right: 700px;
 }
 .states{
-margin-left: 330px;
-margin-top: -60px;
+margin-left: 310px;
+margin-top: -62px;
 margin-right: 350px;
 }
 #state{
@@ -124,24 +121,24 @@ border:none;
 border-radius: 4px;
 margin-top:6px;
 font-size:28px;
-width:200%;
+width:350%;
 color:grey;
 margin-right: 700px;
 }
 .zipcode{
-margin-left: 600px;
-margin-top: -60px;
+margin-left: 520px;
+margin-top: -62px;
 }
 #zip{
 border:none;
 border-radius: 4px;
 margin-top:6px;
 font-size:28px;
-width:100%;
+width:105%;
 color:grey; 
 }
 hr{
-    color:grey;
+color:grey;
 }
 .ship{
 margin-top: 30px;
@@ -163,23 +160,23 @@ border:none;
 border-radius: 4px;
 font-size:28px;
 color:grey;
-width:40%;
+width:42%;
 }
 .cname p{
 margin-top:5px;
 color:grey;
 }
 .cnum{
-    margin-left: 430px;
-    margin-top: -100px;
+margin-left: 400px;
+margin-top: -100px;
 }
 #cardnum{
-margin-top:7px;
+margin-top:5px;
 border:none;
 border-radius: 4px;
 font-size:28px;
 color:grey;
-width:72%;
+width:68%;
 }
 .exp{
 margin-top:40px;
@@ -193,10 +190,10 @@ border:none;
 border-radius: 4px;
 font-size:28px;
 color:grey;
-width:100%;
+width:250%;
 }
 .cvv{
-margin-left: 180px;
+margin-left: 200px;
 margin-top: -62px;
 }
 #cvvfield{
@@ -205,7 +202,7 @@ border:none;
 border-radius: 4px;
 font-size:28px;
 color:grey;
-width:18%;
+width:25%;
 }
 .hr3{
 margin-top:30px;
@@ -216,7 +213,7 @@ color: white;
 background-color: #009ACD;
 border-radius: 4px;
 border:none;
-width:85%;
+width:83%;
 padding:15px;
 font-size:20px;
 }

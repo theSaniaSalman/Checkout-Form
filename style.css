@@ -57,4 +57,86 @@ margin-top:10px;
 margin-left: 420px;
 margin-top: -70px;
 }
-
+.user{
+margin-top:20px;
+}
+.at{
+margin-right: 900px;
+font-size:35px;
+padding-left:5px;
+background-color: #A9A9A9;
+border-radius:4px;
+margin-top:5px;
+}
+#uname{
+position: relative;
+top: -50px;
+margin-left:40px;
+width:80%;
+font-size:34px;
+}
+.email{
+margin-top:-25px;
+}
+#opt{
+color:grey;
+}
+#mail{
+width:84%;
+border-radius: 4px;
+margin-top:7px;
+font-size:28px;
+border:none;
+}
+.address{
+margin-top:20px;
+}
+#add{
+width:84%;
+border-radius: 4px;
+margin-top:7px;
+font-size:28px;
+border:none;
+}
+.address2{
+margin-top:20px;
+}
+.drop{
+margin-top:20px;
+margin-right: 150px;
+}
+#country{
+border:none;
+border-radius: 4px;
+margin-top:7px;
+font-size:28px;
+width:35%;
+color:grey;
+margin-right: 700px;
+}
+.states{
+margin-left: 330px;
+margin-top: -60px;
+margin-right: 350px;
+}
+#state{
+border:none;
+border-radius: 4px;
+margin-top:6px;
+font-size:28px;
+width:200%;
+color:grey;
+margin-right: 700px;
+}
+.zipcode{
+margin-left: 600px;
+margin-top: -60px;
+}
+#zip{
+border:none;
+border-radius: 4px;
+margin-top:6px;
+font-size:28px;
+width:100%;
+color:grey; 
+}
